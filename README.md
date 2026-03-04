@@ -49,6 +49,7 @@ Interactive visuals and filters allow users to explore election results by state
 This project demonstrates data cleaning, DAX calculations, dashboard design, and analytical storytelling using Power BI.
 
 ⚙️ Step-by-Step Project Process
+
 1️⃣ Data Collection
 
 Election data was collected from publicly available election result sources and structured into a dataset for analysis.
@@ -94,9 +95,13 @@ Constituency-level analysis
 📈 Key Dashboard Features
 
 ✔ Interactive Filters (State, Party, Constituency)
+
 ✔ Dynamic KPIs for quick insights
+
 ✔ Party-wise seat comparison
+
 ✔ State-wise performance analysis
+
 ✔ Clean and easy-to-understand visuals
 
 🔍 Insights from the Dashboard
@@ -107,4 +112,4 @@ Analyze vote share differences between parties
 Compare candidate performance across constituencies
 
 📷 Dashboard Preview
-Overview Analysis :- https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/Overview%20Analysis.PNG
+Overview Analysis :- (https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/Overview%20Analysis.PNG)

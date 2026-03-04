@@ -112,4 +112,13 @@ Analyze vote share differences between parties
 Compare candidate performance across constituencies
 
 📷 Dashboard Preview
-Overview Analysis :- (https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/Overview%20Analysis.PNG)
+
+Overview Analysis : (https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/Overview%20Analysis.PNG)
+
+State Demographic Analysis : (https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/State%20demographic%20analysis.PNG)
+
+Political landscape by state : (https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/Political%20landscape%20by%20state.PNG)
+
+Constituency Analysis : (https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/Constituency%20Analysis.PNG)
+
+Details Grid : (https://github.com/YashwanthKumar4/Election-Results-2024/blob/main/Details%20Grid.PNG)
